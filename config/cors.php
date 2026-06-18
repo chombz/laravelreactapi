@@ -3,7 +3,10 @@
 return [
     'paths' => ['api/*', 'sanctum/csrf-cookie'],
     'allowed_methods' => ['*'],
-    'allowed_origins' => ['http://localhost:3000'], // Your React app URL
+    'allowed_origins' => [
+        'chombzshopz-backroomz-production.up.railway.app', //myVerselsssssss 
+        'http://localhost:3000' // Your React URLLLLLLLL
+    ],
     'allowed_origins_patterns' => [],
     'allowed_headers' => ['*'],
     'exposed_headers' => [],
