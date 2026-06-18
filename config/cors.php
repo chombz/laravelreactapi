@@ -4,7 +4,7 @@ return [
     'paths' => ['api/*', 'sanctum/csrf-cookie'],
     'allowed_methods' => ['*'],
     'allowed_origins' => [
-        'chombzshopz-backroomz-production.up.railway.app', //myVerselsssssss 
+        'chombzshopz-backroomz-production.up.railway.app', //myVerselssss 
         'http://localhost:3000' // Your React URLLLLLLLL
     ],
     'allowed_origins_patterns' => [],
